@@ -1,0 +1,24 @@
+{
+  "name": "all-dl",
+  "version": "1.0.0",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nerdola",
+  "license": "MIT",
+  "description": "Este e um modulo criado pelo nerdola,para fazer download de tudo.",
+  "dependencies": {
+    "@distube/spotify": "^2.0.2",
+    "all-dl": "^1.0.0",
+    "axios": "^1.7.9",
+    "node-fetch": "^3.3.2",
+    "soundcloud-downloader": "^1.0.0",
+    "ytdl-core": "^4.11.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@mahperai/all-dl"
+  }
+}
